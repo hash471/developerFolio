@@ -26,7 +26,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Senior Full Stack Engineer 🚀 with expertise in AI/ML, Cloud Architecture, and Microservices. I love building scalable solutions that drive innovation and user engagement."
   ),
-  resumeLink: "https://drive.google.com/file/d/YOUR_RESUME_LINK_HERE/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1SnR7rofm8S_nhc1I1WON-2NzRqhsAejy/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
