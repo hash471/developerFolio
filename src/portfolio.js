@@ -386,7 +386,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://your-aws-cert-url.com"
+          url: "https://www.credly.com/badges/78f2a0f1-ee2a-49d9-b754-384f2ebf6103/linked_in_profile"
         }
       ]
     },
